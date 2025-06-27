@@ -35,7 +35,7 @@
 ## 📫 Contacto
 
 - Email: victortiradoarregui08@gmail.com
-- LinkedIn: [www.linkedin.com/in/víctor-tirado-arregui-35981936a]
+- LinkedIn: [Víctor Tirado](www.linkedin.com/in/víctor-tirado-arregui-35981936a)
 ---
 
 ## 📈 Stats
@@ -46,6 +46,14 @@
 </p>
 
 ---
+
+<hr>
+
+<p align="center"><em>"Those who can imagine anything, can create the impossible."</em><br>
+— Alan Turing</p>
+
+<hr>
+
 
 ## 🌍 English Version
 
@@ -83,7 +91,7 @@
 ## 📫 Contact
 
 - Email: victortiradoarregui08@gmail.com
-- LinkedIn: [www.linkedin.com/in/víctor-tirado-arregui-35981936a]
+- LinkedIn: [Víctor Tirado](www.linkedin.com/in/víctor-tirado-arregui-35981936a)
 
 ---
 
@@ -95,3 +103,11 @@
 </p>
 
 ---
+
+<hr>
+
+<p align="center"><em>"Those who can imagine anything, can create the impossible."</em><br>
+— Alan Turing</p>
+
+<hr>
+
