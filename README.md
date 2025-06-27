@@ -47,7 +47,6 @@
 
 ---
 
-<hr>
 
 <p align="center"><em>"Those who can imagine anything, can create the impossible."</em><br>
 — Alan Turing</p>
@@ -104,7 +103,6 @@
 
 ---
 
-<hr>
 
 <p align="center"><em>"Those who can imagine anything, can create the impossible."</em><br>
 — Alan Turing</p>
