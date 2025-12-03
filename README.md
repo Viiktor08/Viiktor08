@@ -44,6 +44,12 @@
 
 <hr>
 
+<p align="center">
+  <img src="victor-card.jpg" alt="Tarjeta Víctor" width="300">
+</p>
+
+<hr>
+
 
 ## 🌍 English Version
 
@@ -91,3 +97,8 @@
 
 <hr>
 
+<p align="center">
+  <img src="victor-card.jpg" alt="Tarjeta Víctor" width="300">
+</p>
+
+<hr>
