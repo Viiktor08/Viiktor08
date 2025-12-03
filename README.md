@@ -38,15 +38,6 @@
 - LinkedIn: [Víctor Tirado](www.linkedin.com/in/víctor-tirado-arregui-35981936a)
 ---
 
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viiktor08&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viiktor08&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 
 <p align="center"><em>"Those who can imagine anything, can create the impossible."</em><br>
 — Alan Turing</p>
@@ -91,15 +82,6 @@
 
 - Email: victortiradoarregui08@gmail.com
 - LinkedIn: [Víctor Tirado](www.linkedin.com/in/víctor-tirado-arregui-35981936a)
-
----
-
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viiktor08&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viiktor08&layout=compact&theme=radical" height="150"/>
-</p>
 
 ---
 
