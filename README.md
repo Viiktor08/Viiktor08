@@ -45,7 +45,7 @@
 <hr>
 
 <p align="center">
-  <img src="victor-card.jpg" alt="Tarjeta Víctor" width="300">
+  <img src="victor-card.jpeg" alt="Tarjeta Víctor" width="300">
 </p>
 
 <hr>
@@ -98,7 +98,7 @@
 <hr>
 
 <p align="center">
-  <img src="victor-card.jpg" alt="Tarjeta Víctor" width="300">
+  <img src="victor-card.jpeg" alt="Tarjeta Víctor" width="300">
 </p>
 
 <hr>
