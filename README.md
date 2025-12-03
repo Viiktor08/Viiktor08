@@ -35,7 +35,7 @@
 ## 📫 Contacto
 
 - Email: victortiradoarregui08@gmail.com
-- LinkedIn: [Víctor Tirado](www.linkedin.com/in/víctor-tirado-arregui-35981936a)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/víctor-tirado-arregui-35981936a)
 ---
 
 
@@ -81,7 +81,7 @@
 ## 📫 Contact
 
 - Email: victortiradoarregui08@gmail.com
-- LinkedIn: [Víctor Tirado](www.linkedin.com/in/víctor-tirado-arregui-35981936a)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/víctor-tirado-arregui-35981936a)
 
 ---
 
