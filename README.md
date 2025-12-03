@@ -1,6 +1,8 @@
 <!-- README personal de GitHub -->
 
-<h1 align="center">Víctor Tirado</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:00FF41&height=200&section=header&text=Víctor%20Tirado%20&fontSize=40&fontAlign=50&fontColor=FFFFFF" alt="Víctor Banner" />
+</p>
 
 <p align="center">
   🎓 Estudiante de Ciberseguridad e IA en Universidad de Málaga <br>
@@ -53,7 +55,9 @@
 
 ## 🌍 English Version
 
-<h1 align="center">Víctor Tirado</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:00FF41&height=200&section=header&text=Víctor%20Tirado%20&fontSize=40&fontAlign=50&fontColor=FFFFFF" alt="Víctor Banner" />
+</p>
 
 <p align="center">
   🎓 Cybersecurity and AI student at University of Málaga <br>
